@@ -1,0 +1,1 @@
+An app that reverses an entered string.

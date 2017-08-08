@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  padding: 100px;
+  background: #F4EEEE;
+  font-family: 'Lato', sans-serif;
+}
+
+input {
+  width: 500px;
+  padding: 20px 10px 20px 10px;
+  font-family: 'Lato', sans-serif;
+}
+
+input[type="text"] {
+  
+}
+
+button {
+  width: 150px;
+  padding: 5px;
+  border: 0;
+  background: #CB7C7C;
+  box-shadow:none;
+  border-radius: 0px;
+  font-family: 'Lato', sans-serif;
+}
